@@ -1,4 +1,0 @@
-alias ll='ls -la'
-alias xshd='XSH_DEBUG=1 xsh'
-alias xshf='XSH_DEV=1 xsh'
-alias xshfd='XSH_DEV=1 XSH_DEBUG=1 xsh'
