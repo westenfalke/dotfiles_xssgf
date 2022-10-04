@@ -1,5 +1,4 @@
-#!/bin/bash
-
+if [ ! -e /etc/apk/repositories ]; then echo "WRNING: /etc/apk/repositories does not exit"; exit 0 ; fi 
 ### /media/cdrom/apks
 ### https://dl-cdn.alpinelinux.org/alpine/latest-stable/main
 ### https://dl-cdn.alpinelinux.org/alpine/latest-stable/community

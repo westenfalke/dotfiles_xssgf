@@ -1,5 +1,8 @@
 # foo
 alias ll='ls -la'
+# click on result to open file from terminal
+alias lr='*"
+alias rp='realpath"
 # xsh - eXtension of baSH
 alias xshd='XSH_DEBUG=1 xsh'
 alias xshf='XSH_DEV=1 xsh'
